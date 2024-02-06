@@ -46,6 +46,7 @@ input_file_path2 = "C:/example/directory/CV.docx"
 output_file_path2 = f"C:/example/directory/CV - {Company}.docx"
 
 # Define the replacements as a dictionary
+# 'xxx', 'yyy' etc. refer to key words in the document that need replacing
 replacements = {
     'xxx': Job_Title,
     'yyy': 'job',
