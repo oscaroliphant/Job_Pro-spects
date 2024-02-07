@@ -2,4 +2,4 @@ Code for Job Pro-spects Project: An independent project where I utilised Python 
 
 Cover_Letter_Generator: use to enhance Cover Letter and CV writing speed and quality.
 
-Networking_Assitant: use to enhance online networking and job hunting
+Networking_Assitant: use to enhance online networking and job hunting.
